@@ -1,9 +1,14 @@
-console.log("Hello World!")
+// console.log("Hello World!")
 
-let admin;
-let name;
+// let admin;
+// let name;
 
-name = "John";
-admin = name;
+// name = "John";
+// admin = name;
 
-alert(admin);
+// alert(admin);
+
+// let planet;
+// let user;
+
+console.log(23 + 97)
